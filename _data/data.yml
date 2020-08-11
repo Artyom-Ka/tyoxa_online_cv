@@ -7,184 +7,166 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Artem Koshlatyi
+    tagline: Senior System Administrator / IT Engineer / DevOps
+    avatar: art_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: tyoxa.online@google.com
+#    phone: 012 345 6789
+    website: tyoxa.online/online-cv  #do not add http://
+#    linkedin: alandoe
+#    github: sharu725
+    telegram: tyoxa         # add your nickname without '@' sign
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow:        # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads:             # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Ukrainian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Russian
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Pre-Intermediate, good writing and reading skills
 
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
-      - item: Snowboarding
+      - item: Gastronomic tourism
         link:
 
-      - item: Cooking
+      - item: Cooking delicious food
+        link:
+
+      - item: Watch movies with friends
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      16 years of experience in Systems Administration, DevOps and Network engineering fields.
+
+      Linux Systems Engineer with:
+        - knowledge at UNIX based OS (CentOS, Ubuntu, Debian & FreeBSD)
+        - experience at Virtualization (VirtualBox, VMware, ESXi, Hyper-V)
+        - passion to CM (Ansible, Git, Bitbucket)
+        - slight experince in cloud (AWS EC2, S3)
+        - slight experince to work on CI/CD setup (Jenkins)
+
+      Cloud:
+        - AWS, Amazon EC2 Container Service, Amazon Simple Storage Service (S3);
+        - Amazon Web Services (AWS) and Heroku;
+        - Technologies: Datacenters, Internet,Networking, Security, Structured storage;
+        - Virtualization Tools: Docker, KVM, Oracle VM, VMware ESXi, VMware vSphere, Windows Server Virtualization with Hyper-V;
+
+      DataBases:
+        - MSSQL Server, MySQL, MariaDB, MongoDB, Oracle, SQLLite, Firebird, Redis, DB2, PostgreSQL;
+        - replication, backup and restore DB.
+
+      Programing:
+        - scripting Languages: Bash, PowerShell;
+        - now began studying RoR (Ruby on Rails) and GO;
+        - studied HTML/XHTML/CSS and little PHP.
+
+      Other Awards:
+        - VPN: OpenVPN, pptp, ipsec, ;
+        - Storage: CIFS, Ext2/3/4, FAT, FAT32, NFS, NTFS;
+        - Network Protocols: DNS, DHCP, etc.;
+        - Interfaces: Ethernet, FibreChannel, WiFi, etc.;
+        - Microsoft Technologies: Operating Systems: Windows Server 2008 (R2)/2012 (R2)/2016;
+        - Software Configuration Management: Version Control Systems: Git, GitHub, TFS.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: National Technical University "Kharkiv Polytechnic Institute"
+      university: Kharkiv, Ukraine
+      time: 2008 - 2013
+      details:
+    - degree: STEP Computer Academy
+      university: Odessa, Ukraine
+      time: 2002 - 2004
+      details:
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: System Administrator (with DevOps & Network Engineer tasks)
+      time: 2018 - Present
+      company: Product company
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - managed and created new hosts for the existing VMWare cluster in data centers in Europe, USA, Australia
+        - implement, manage and support backup system VeeamBackup
+        - manage web servers with web applications based on Apache, Nginx, IIS, etc.
+        - implement and support VPN tunnels (IPsec) between gateways in different geo locations
+        - implement and support VPN tunnels (OpenVPN) for connect customers to local resources
+        -  monitoring OS systems and active hardware with Zabbix
+    - role: Technical Support Engineer L2
+      time: 2015 - 2017
+      company: Software company
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        A few months later I worked in the development department.
+         - supported and managed Web servers with applications and Databases. Solved complex technical problems encountered by customers
+         - Implemented a system for monitoring IT infrastructure of the company and customer systems
+         - develop automation scripts in PowerShell (for Windows Servers)
+         - develop installation packages based on the Windows Installer Xml (WiX) toolset for the company's main web applications
+    - role: Technical Engineer / System Administrator
+      time: 2015
+      company: Industrial company
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          - development of the project and implementation of a video surveillance system in the presence of data storage in the cloud
+          - installation and maintenance of a unified accesscontrol system (ACS) in the branches and the main office of the company
+          - configure and maintenance of servers and PCs in the company
+    - role: IT Engineer
+      time: 2013 - 2015
+      company: in several companies
+      details: |
+          - Supported SOHO network equipment: MikroTik, Linksys, D-Link, TP-Link; Virtual network (vlan) Cisco based
+          - Managed and supported Windows Server 2008/2012 environment (including AD, DNS, DHCP, etc.)
+    - role: Technical Specialist (System Administrator)
+      time: 2004 - 2013
+      company: Information and Computing Center
+      details: |
+          Was engaged in worked on the maintenance of computing equipment and software.
+          - Managed Windows Server 2003/2008, including mail servers (IBM Lotus Domino) and application server
+          - Windows-based network support of over 100 PCs
+          - introduction (from scratch) of the corporateautomated accounting system at the enterprises of the region, as well as its integration with the banking system;
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: My achievements
+    intro: Participated in various projects, here are some
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: implementation (from scratch) of a corporate automated accounting system in enterprises
+      - title: implementation, support and subsequent maintenance of an automated personnel accounting system in enterprises.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: UNIX based OS
+        level: 84%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: DataBases
+        level: 68%
 
-      - name: Angular
-        level: 98%
+      - name: Virtualization
+        level: 79%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Networking
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Microsoft Technologies
+        level: 78%
+
+      - name: Cloud Services
+        level: 71%
+
+      - name: Programing &amp; Scripting
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+##footer: >
+##    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
