@@ -54,10 +54,10 @@ career-profile:
       16 years of experience in Systems Administration, DevOps and Network engineering fields.
 
       Linux Systems Engineer with:
-        - knowledge at UNIX based OS (CentOS, Ubuntu, Debian & FreeBSD)
+        - knowledge at UNIX based OS (CentOS, Ubuntu, Mint, Debian & FreeBSD)
         - experience at Virtualization (VirtualBox, VMware, ESXi, Hyper-V)
         - passion to CM (Ansible, Git, Bitbucket)
-        - slight experince in cloud (AWS EC2, S3)
+        - slight experince in cloud (AWS EC2, S3, CloudFront, Route53, etc.)
         - slight experince to work on CI/CD setup (Jenkins)
 
       Cloud:
@@ -71,12 +71,12 @@ career-profile:
         - replication, backup and restore DB.
 
       Programing:
-        - scripting Languages: Bash, PowerShell;
-        - now began studying RoR (Ruby on Rails) and GO;
+        - scripting Languages: Bash, Python, PowerShell;
+        - now began studying RoR (Ruby on Rails) and GOLang (in future plans);
         - studied HTML/XHTML/CSS and little PHP.
 
       Other Technology's:
-        - VPN: OpenVPN, pptp, ipsec, ;
+        - VPN: OpenVPN, pptp, ipsec, wireguard end etc. ;
         - Storage: CIFS, Ext2/3/4, FAT, FAT32, NFS, NTFS;
         - Network Protocols: DNS, DHCP, etc.;
         - Interfaces: Ethernet, FibreChannel, WiFi, etc.;
